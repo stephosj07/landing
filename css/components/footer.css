@@ -1,0 +1,17 @@
+footer {
+  background-color: #7C8483;
+  margin-bottom: 0;
+  height: 120px;
+}
+footer ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+footer li {
+  color:#60B2E5;
+  font-size: 50px;
+  margin: 20px;
+}
